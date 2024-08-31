@@ -1,6 +1,7 @@
 # Acoustic-Based Rail Defect Detection System
 
 This project is designed to collect and process sensor data using the ESP32-WROOM-32 microcontroller, storing data on an SD card and sending it to the cloud via Wi-Fi. The system reads sensor values, smooths the data using a moving average filter, and logs the results. The data is sent to the cloud at regular intervals, and the SD card is cleared after successful transmission.
+
 ![Screenshot (308)](https://github.com/user-attachments/assets/8dfd0a15-0a3d-4604-8ff6-2253457e174e)
 
 ## Features
